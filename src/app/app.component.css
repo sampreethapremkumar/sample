@@ -1,0 +1,28 @@
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+ 
+  li a {
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #5F9EA0; 
+    transition: background-color 0.2s ease-in-out;
+    display: block;
+  }
+  
+
+  li a:hover,
+  li a.active {
+    background-color: #6082B6; 
+    color: 	#A7C7E7; 
+  }
+  
+  
+  
+  

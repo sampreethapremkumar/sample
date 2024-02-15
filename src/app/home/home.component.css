@@ -1,0 +1,94 @@
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color:  #6F8FAF; 
+  }
+  
+
+  .head {
+    flex: 1;
+    text-align: center; 
+  }
+  
+ 
+  h1 {
+    font-size: 2em; 
+    margin: 0;
+    font-weight: bold; 
+  }
+  
+  
+  .content {
+    flex: 2; 
+    margin-left: 20px; 
+    font-size: 0.8em;   
+  }
+
+section {
+    margin: 20px auto; 
+    padding: 20px;
+    border-radius: 5px; 
+    box-shadow: #1F51FF; 
+  }
+  
+ 
+  .hero {
+
+    background-size: cover;
+    text-align: center;
+    color: #4996b4; 
+  }
+  
+  .about-us {
+    padding: 30px;
+  }
+  
+  .services {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-around;
+  }
+  
+  .card {
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #F0FFFF;
+    border-radius: 5px;
+    
+  }
+  
+  
+  body {
+    font-family: Arial, sans-serif;
+    color: black;
+   
+  }
+  
+  h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+    color: black;
+    padding: 20px;
+    background-color:#6F8FAF ;
+  }
+  
+  p {
+    line-height: 1.5;
+    margin-bottom: 15px;
+    padding: 20px;
+    background-color: #6F8FAF;
+    color: black;
+  }
+  
+  a {
+    color: #3F00FF;
+    text-decoration: none;
+    
+  }
+  
+
+
+  
